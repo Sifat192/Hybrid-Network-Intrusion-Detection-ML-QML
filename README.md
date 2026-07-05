@@ -1,3 +1,7 @@
+![Python](https://img.shields.io/badge/Python-3.11-blue)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-ML-orange)
+![Qiskit](https://img.shields.io/badge/Qiskit-Quantum-purple)
+![License](https://img.shields.io/badge/License-MIT-green)
 # Hybrid Network Intrusion Detection using Classical and Quantum Machine Learning
 
 A hybrid cybersecurity project that develops an end-to-end **Network Intrusion Detection System (NIDS)** by integrating **Classical Machine Learning** and **Quantum Machine Learning (QML)** techniques. The project preprocesses network traffic data, engineers relevant features, applies dimensionality reduction, and compares the performance of classical classifiers with a **Quantum Support Vector Classifier (QSVC)** implemented using **Qiskit**.
