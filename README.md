@@ -52,6 +52,18 @@ Feature Selection     PCA
 
 ---
 
+## Project Workflow
+
+The workflow covers network traffic preprocessing, feature
+engineering, classical machine learning, and quantum machine
+learning with Qiskit QSVC, followed by performance comparison.
+
+![Hybrid network intrusion detection workflow](hybrid-intrusion-detection-workflow.png)
+
+[View full-size diagram](hybrid-intrusion-detection-workflow.png)
+
+---
+
 ## Features
 
 - Network traffic dataset integration from multiple CSV files
